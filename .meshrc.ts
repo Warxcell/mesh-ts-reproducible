@@ -6,7 +6,7 @@ const config: Config = {
       "name": "Api",
       "handler": {
         "graphql": {
-          "endpoint": "https://anilist.co/graphiql",
+          "endpoint": "https://graphql-pokemon2.vercel.app",
         }
       },
     },
